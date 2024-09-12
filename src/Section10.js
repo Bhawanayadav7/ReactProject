@@ -16,7 +16,7 @@ export default function Section10(){
         <a href="https://www.instagram.com/wakefitco/" target="_blank"><img class="social-img" src={instagram} alt="logo" /></a>
         <a href="https://in.linkedin.com/company/wakefitco" target="_blank"><img class="social-img" src={linkedin} alt="logo" /></a>
         </div>
-        <h3> &copy; 2023 All rights reserved | design by bhawana Yadav</h3>
+        <h3> &copy; 2024 All rights reserved | design by bhawana Yadav</h3>
       </section>
     );
 }
